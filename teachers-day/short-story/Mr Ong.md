@@ -1,6 +1,6 @@
 **Story:**
 
-Morning.                    I said morning.                                  **Morning                  MORNING                  I SAID MORNING**
+"Morning.                    I said morning.                                  **Morning                  MORNING                  I SAID MORNING**
 
 Right, I shouldn't yell so loud.......
 
@@ -42,7 +42,7 @@ And also, can you wake the others up?
 
 Yes, now we can start the lesson.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! "
 
 Now, I am sure you are wondering, why the whole dialogue?
 
