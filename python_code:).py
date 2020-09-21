@@ -1,6 +1,6 @@
-find the mistake(s)!!!!
-*from microbit import*
-*import music*
+#find the mistake(s)!!!!
+from microbit import*
+import music*
 happiness = 100
 pet = Image.RABBIT
 while True:
